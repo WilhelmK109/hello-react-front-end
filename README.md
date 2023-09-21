@@ -1,8 +1,4 @@
-# hello-react-front-end
-
 <a name="readme-top"></a>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -12,8 +8,8 @@
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
   - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
@@ -23,56 +19,55 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-<!-- - [❓ FAQ (OPTIONAL)](#faq) -->
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
+# 📖 [hello-react-front-end] <a name="about-project"></a>
 
-# 📖 [Hello rails front-end] <a name="about-project"></a>
+**[hello-react-front-end]** is a react front end application that connect to rails back end application to fetch and display random greetings.
 
-**[Hello rails front-end]** fetches and display random greetings.
-
-Link to back-end API: [Link](https://github.com/WilhelmK109/hello-rails-back-end)
+**[API]**
+- Link to back-end API: [Link](https://github.com/WilhelmK109/hello-rails-back-end)
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
- Develop with React.js
-
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="">React.js</a></li>
+    <li><a href="">Javascript</a></li>
+    <li><a href="">CSS</a></li>
+    <li><a href="">Redux</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li>N/A</a></li>
+    <li><a href="">N/A</a></li>
   </ul>
-</details> -->
+</details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li>N/A</li>
+    <li><a href="">N/A</a></li>
   </ul>
 </details>
 
-<!-- Features -->
-
 ### Key Features <a name="key-features"></a>
 
+- **[Fetch random greetings]**
 
-- **[ Fetch random greetings ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -109,7 +104,7 @@ Install this project with:
 To run the project, execute the following command:
 
 ```sh
-  npm start
+  npm run start
 ```
 
 ### Run tests
@@ -117,24 +112,15 @@ To run the project, execute the following command:
 To run tests, run the following command:
 
 ```sh
-  N/A
+  npm run test
 ```
 
-<!-- ### Deployment
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-You can deploy this project using:
 
-```sh
-  npm run build
-```
+## 👥 Authors <a name="authors"></a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-<!-- AUTHORS -->
-
-## 👤 Author <a name="authors"></a>
-
-👤 **Author**
+👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/WilhelmK109)
 - Twitter: [@twitterhandle](https://twitter.com/ActiveK7)
@@ -142,14 +128,13 @@ You can deploy this project using:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Add styling]**
-- [ ] **[Add more greetings]**
+- [ ] **[UX improvements]**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -159,15 +144,13 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project Follow and give Star
+If you like this project please give it a star ⭐️.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
@@ -176,10 +159,8 @@ I would like to thank Microverse for giving me this opportunity.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- LICENSE -->
-
 ## 📝 License <a name="license"></a>
 
-This project is [MIT] licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
