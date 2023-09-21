@@ -31,6 +31,7 @@
 # 📖 [Hello rails front-end] <a name="about-project"></a>
 
 **[Hello rails front-end]** fetches and display random greetings.
+
 Link to back-end API: [Link](https://github.com/WilhelmK109/hello-rails-back-end)
 
 ## 🛠 Built With <a name="built-with"></a>
